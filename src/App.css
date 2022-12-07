@@ -1,10 +1,28 @@
-.greeting{
-  width: 80px;
-  background-color: blue;
-  margin-top: 5rem;
-  margin-left: 2rem;
-  padding: 3rem;
+
+.numeroContador{
+  background-color: gold;
+  padding: 2rem;
+}
+
+.medidasCard{
+  width: 18rem;
+  margin: 1rem;
+}
+
+.itemList{
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   justify-content: center;
+  margin: 5rem;
+}
+
+.ItemDetailContainer{
+  margin-top: 10rem;
+}
+
+.error4040{
+  margin-top: 5rem;
+  background-color: gold;
+  
 }
