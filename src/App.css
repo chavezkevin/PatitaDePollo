@@ -1,15 +1,37 @@
-
-.numeroContador{
-  background-color: gold;
-  padding: 2rem;
+.body {
+  background-color: rgb(146, 146, 146);
 }
 
-.medidasCard{
+.iconoPrincipal{
+  width: 30px;
+}
+
+.numeroContador {
+  background-color: gold;
+  padding: 0.5rem;
+}
+
+.contContador {
+  width: 8rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.medidasCard {
   width: 18rem;
   margin: 1rem;
+  /* border-width: 2px;
+  border-radius: 3px; 
+  border-color: black;*/
 }
 
-.itemList{
+.card {
+  box-shadow: 0px 10px 20px 8px rgba(0, 245, 214, 1);
+  -webkit-box-shadow: 0px 10px 20px 8px rgba(0, 245, 214, 1);
+  -moz-box-shadow: 0px 10px 20px 8px rgba(0, 245, 214, 1);
+}
+
+.itemList {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -17,12 +39,107 @@
   margin: 5rem;
 }
 
-.ItemDetailContainer{
+.ItemDetailContainer {
   margin-top: 10rem;
 }
 
-.error4040{
+.item img {
+  max-height: 11rem;
+}
+
+/* .bodyItem{
+  background-color: rgb(217, 245, 251);
+} */
+
+.ItemDetail {
+  margin: 5rem;
+}
+
+.ItemDetail img {
+  height: 23rem;
+  width: 30rem;
+}
+
+.error4040 {
   margin-top: 5rem;
   background-color: gold;
-  
+
+}
+
+.loader {
+  width: 5rem;
+  height: 5rem;
+  margin: 10rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.carritoBasio {
+  margin-top: 5rem;
+}
+
+.carrito {
+  padding: 1rem;
+  margin: 10rem;
+  border-radius: 2rem;
+}
+
+.footer{
+  background-color: rgba(0, 245, 214, 1);
+  padding: 1px;
+}
+.icons img{
+  margin: 5px;
+}
+.telefono{
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+}
+.info{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 5px;
+}
+.contInfo{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 40px;
+}
+.contInfo2{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin: 40px;
+}
+.terminos{
+  display: flex;
+  flex-direction: row;
+}
+.terminos h5{
+  margin: 3px;
+}
+
+.checkOut{
+  margin: 10rem;
+  background-color: aliceblue;
+  border-radius: 2rem;
+  padding: 5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.formularioCompra{
+  display: flex;
+  flex-direction: column;
+}
+
+.codigoOrden{
+  margin: 4rem;
+  padding: 1rem;
+  border-radius: 2rem;
 }

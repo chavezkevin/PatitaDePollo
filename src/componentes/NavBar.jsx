@@ -6,14 +6,16 @@ const Navbar = () => {
 
     return (
         <>
-            <nav className="navbar navbar-dark bg-dark fixed-top">
+            <nav className="navbar navbar-dark bg-secondary fixed-top">
                 <div className="container-fluid">
-                    <Link to={"/"} className="text-decoration-none">
-                    <h1 className="navbar-brand">La Patita de Pollo</h1>
+                    <Link to={"/"} className="text-decoration-none d-flex flex-row mb2">
+                    <h1 className="navbar-brand">Patita de Pollo</h1>
+                    <img className="iconoPrincipal" src={"/imagenes/drumstick-bite-solid.svg"} alt=""/>
                     </Link>
                     <div>
 
                         <CartWidget />
+                        
 
                     </div>
                     <button className="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar" aria-controls="offcanvasDarkNavbar">

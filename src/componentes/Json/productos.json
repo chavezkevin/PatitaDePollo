@@ -1,7 +1,6 @@
 [
 
     {
-        "id": 1,
         "image":  "https://www.kfc.com.ar/images/menues/1545395217foto-web-piezasolas-3p.jpg",
         "name": "Piezas de pollo frito",
         "descripcion": "3 grandes piezas de pollo rebozadas en nuestro ingrediente secreto y luego fritas en un aceite de primera calidad",
@@ -11,7 +10,6 @@
         "initial": 1
     },
     {
-        "id": 2,
         "image": "https://www.kfc.com.ar/images/menues/1545395117foto-web-snaks-alitas.jpg",
         "name": "Alitas de pollo fritas",
         "descripcion": "3 alitas de pollo rebozadas en nuestro ingrediente secreto y luego fritas en un aceite de primera calidad",
@@ -21,7 +19,6 @@
         "initial": 1
     },
     {
-        "id": 3,
         "image": "https://www.kfc.com.ar/images/menues/1545395040foto-web-snaks-solos-6strips.jpg",
         "name": "Pechugas de pollo fritas",
         "descripcion": "3 pechugas pequeñas de pollo rebozadas en nuestro ingrediente secreto y luego fritas en un aceite de primera calidad",
@@ -31,9 +28,8 @@
         "initial": 1
     },
     {
-        "id": 4,
         "image": "https://www.kfc.com.ar/images/menues/1545395463foto-web-snaks-popcorn-chico.jpg",
-        "name": "chips fritos",
+        "name": "Chips fritos",
         "descripcion": "un tarro de pequeñas piezas de pollo rebozadas en nuestro ingrediente secreto, luego se frien en un aceite de primera calidad para asi ser servidas en un tarro condimentado con una salsa ligeramente picante",
         "categoria": "polloFrito",
         "price": 540,
@@ -41,9 +37,8 @@
         "initial": 1
     },
     {
-        "id": 5,
         "image": "https://www.kfc.com.ar/images/menues/1636564849Gran%20BBQ%20Bacon.jpg",
-        "name": "amburpollo de BBQ",
+        "name": "Hamburpollo de BBQ",
         "descripcion": "una amburgueza con: Piezas de pollo frtas, BBQ, bacon, lechuga, tomate y qeso chedar",
         "categoria": "amburguezas",
         "price": 900,
@@ -51,9 +46,8 @@
         "initial": 1
     },
     {
-        "id": 6,
         "image": "https://www.kfc.com.ar/images/menues/1636565030Cheddar%20Melt.jpg",
-        "name": "amburpollo con chedar",
+        "name": "Hamburpollo con chedar",
         "descripcion": "una amburgueza con: Piezas de pollo frtas, una salsa de la casa y abundante chedar cremoso. Es opcional el agregarle lechuga y tomate.",
         "categoria": "amburguezas",
         "price": 950,
@@ -61,9 +55,8 @@
         "initial": 1
     },
     {
-        "id": 7,
         "image": "https://www.kfc.com.ar/images/menues/1636564883Supercrunch.jpg",
-        "name": "amburpollo simple",
+        "name": "Hamburpollo simple",
         "descripcion": "una amburgueza con: Piezas de pollo frtas y las diferentes opciones simples: lechuga, tomate, mayoneza y una feta de queso chedar",
         "categoria": "amburguezas",
         "price": 850,
@@ -71,9 +64,8 @@
         "initial": 1
     },
     {
-        "id": 8,
         "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$sundae-chocolate.png/200/200/original?country=ar",
-        "name": "sundae de chocolate",
+        "name": "Sundae de chocolate",
         "descripcion": "un pequeño elado de chocolate",
         "categoria": "postres",
         "price": 500,
@@ -81,9 +73,8 @@
         "initial": 1
     },
     {
-        "id": 9,
         "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$sundae-dulce-de-leche.png/200/200/original?country=ar",
-        "name": "sundae de dulce de leche",
+        "name": "Sundae de dulce de leche",
         "descripcion": "un pequeño elado de dulce de leche",
         "categoria": "postres",
         "price": 500,
@@ -91,9 +82,8 @@
         "initial": 1
     },
     {
-        "id": 10,
         "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$sundae-frutilla.png/200/200/original?country=ar",
-        "name": "sundae de frutilla",
+        "name": "Sundae de frutilla",
         "descripcion": "un pequeño elado de frutilla",
         "categoria": "postres",
         "price": 500,
@@ -101,9 +91,8 @@
         "initial": 1
     },
     {
-        "id": 11,
         "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kwXu3WNq/200/200/original?country=ar",
-        "name": "sundae especial",
+        "name": "Sundae especial",
         "descripcion": "un pequeño elado de cocolate con salsa de dulce de leche y pequeños trosos de chocolate blanco",
         "categoria": "postres",
         "price": 500,
@@ -111,9 +100,8 @@
         "initial": 1
     },
     {
-        "id": 12,
         "image": "https://www.kfc.hn/Imagenes/CATEGORIAS/COMPLEMENTOS-POSTRES/Salsas.png",
-        "name": "bariedad de salsas",
+        "name": "Bariedad de salsas",
         "descripcion": "5 bariedades de salsas especiales creadas directamente en nuestro local. Estas se pueden bariar y agregar a tus rebosados",
         "categoria": "acompañamientos",
         "price": 100,
@@ -121,9 +109,8 @@
         "initial": 1
     },
     {
-        "id": 13,
         "image": "https://www.kfc.com.ar/images/menues/1545394030foto-web-acompa%C3%B1amientos-fritas.jpg",
-        "name": "papas fritas",
+        "name": "Papas fritas",
         "descripcion": "un clasico acompañamiento que nunca falla",
         "categoria": "acompañamientos",
         "price": 200,
@@ -131,9 +118,8 @@
         "initial": 1
     },
     {
-        "id": 14,
         "image": "https://www.kfc.com.ar/images/menues/1545394011foto-web-acompa%C3%B1amientos-pure.jpg",
-        "name": "pure",
+        "name": "Pure",
         "descripcion": "un acompañamiento diferente que le da un toque diferente a tu almuerzo o cena. un pure muy cremoso con la opcion de agregar una salsa especial de la casa",
         "categoria": "acompañamientos",
         "price": 200,
